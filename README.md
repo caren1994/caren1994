@@ -1,15 +1,13 @@
 <h1 align="center">Hey 👋, I'm Caren Pontes </h1>
 <h3 align="center">A Web Developer from Brazil</h3>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caren1994&show_icons=true&theme=synthwave)
-
-
 ##
 - 🏡  Rio de Janeiro  - Brazil
 - 📚  I'm studying web development at [Trybe](https://www.betrybe.com/)
 - 🌱  I'm learning **SQL** and **Node.js**
 - 💻  I'm completly in love about programming
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caren1994&show_icons=true&theme=synthwave)
 
 ## Things I code with
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
