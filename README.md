@@ -22,6 +22,9 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-blue)
+![Sequelize](https://img.shields.io/badge/-Sequelize-green)
+![Typescript](https://img.shields.io/badge/-Typescript-yellowgreen)
 ##
 
 ##
