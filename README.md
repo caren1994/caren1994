@@ -24,7 +24,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-blue)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-green)
-![Typescript](https://img.shields.io/badge/Typescript-?style=for-the-badge&logo=Typescript&logoColor=yellowgreen)
+![Typescript](https://img.shields.io/badge/-Typescript-yellowgreen)
 ##
 
 ##
