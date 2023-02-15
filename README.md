@@ -4,7 +4,7 @@
 ##
 - 🏡  Rio de Janeiro  - Brazil
 - 📚  I'm studying web development at [Trybe](https://www.betrybe.com/)
-- 🌱  I'm learning **SQL** and **Node.js**
+- 🌱  I'm learning **POO** and **SOLID**
 - 💻  I'm completly in love about programming
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caren1994&show_icons=true&theme=synthwave)
