@@ -4,7 +4,7 @@
 ##
 - 🏡  Rio de Janeiro  - Brazil
 - 📚  I'm a Full-Stack developer
-- 🌱  I'm learning **PYTHON** and **Java**
+- 🌱  I'm learning **Python** and **Java**
 - 💻  I'm completly in love about programming
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caren1994&show_icons=true&theme=synthwave)
